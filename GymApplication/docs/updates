@@ -1,0 +1,7 @@
+Things we need to do before the program is complete and ready
+
+1)We need to make sure we know how to delete members that dont end their membership but get terminated as a result of the conract ending
+2)So we made the decision that everytime we add a new member we will update the server same time.
+3)Also we will have a copy of the list on the server so that we dont have to constantly access the server in the event of a query
+4)we need a seperate logging file to make sure we keep track of the changes that need to happen to the server files as a security meassure
+5)We also need to make sure that we make a function that will be responsible for billing the gym members every month
