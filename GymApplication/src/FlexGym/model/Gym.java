@@ -23,6 +23,7 @@ public class Gym {
 	
 	private ArrayList<GymMember> members;
 	
+       //so this file has been changed
 	///1)Client socket(TCP)
 	
 	
